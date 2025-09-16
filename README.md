@@ -18,6 +18,10 @@ echo "Commit 4 line" >> README.md
 git add README.md
 git commit -m "Commit 4"
 
+echo "Commit 5 line" >> README.md
+git add README.md
+git commit -m "Commit 5"
+
 
 
 git push
