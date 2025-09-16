@@ -41,6 +41,13 @@ git commit -m "Commit 9"
 echo "Commit 10 line" >> README.md
 git add README.md
 git commit -m "Commit 10"
+echo "Commit 11 line" >> README.md
+git add README.md
+git commit -m "Commit 11"
+
+echo "Commit 12 line" >> README.md
+git add README.md
+git commit -m "Commit 12"
 
 
 
