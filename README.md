@@ -26,5 +26,10 @@ echo "Commit 6 line" >> README.md
 git add README.md
 git commit -m "Commit 6"
 
+echo "Commit 7 line" >> README.md
+git add README.md
+git commit -m "Commit 7"
+
+
 
 git push
